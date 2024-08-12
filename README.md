@@ -1,12 +1,13 @@
 ### DESARROLLO DE CRUD CON AWS 
 Desarrollar un CRUD (Create, Read, Update, Delete) en AWS implica aprovechar varios servicios de AWS que te permiten crear una aplicación completa con funcionalidades de gestión de datos.
+
 **1. Crear una instancia de RDS:**
 - Elige MySQL como motor de base de datos.
 - Configura la capacidad de la instancia según las necesidades de tu aplicación.
 - Define un nombre de base de datos, usuario y contraseña.
 - Asegúrate de habilitar la opción de acceso público.
 
-**2. Configurar la base de datos:** :fa-database:
+**2. Configurar la base de datos:** 
 - Conectar con MySQL 
 - Crear las tablas necesarias para el CRUD (por ejemplo, CREATE TABLE users...).
 
