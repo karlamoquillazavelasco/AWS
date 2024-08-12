@@ -6,6 +6,7 @@ Desarrollar un CRUD (Create, Read, Update, Delete) en AWS implica aprovechar var
 - Configura la capacidad de la instancia según las necesidades de tu aplicación.
 - Define un nombre de base de datos, usuario y contraseña.
 - Asegúrate de habilitar la opción de acceso público.
+![image alt](https://github.com/karlamoquillazavelasco/AWS/blob/02bef86a72f70f72c202f700e17662720539034d/RDS.png)
 
 **2. Configurar la base de datos:** 
 - Conectar con MySQL 
